@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Direct3D Learning Grounds", "Direct3D Learning Grounds\Direct3D Learning Grounds.vcxproj", "{61BE8F4F-A451-4DD6-8F66-C501F0CDD95C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61BE8F4F-A451-4DD6-8F66-C501F0CDD95C}.Debug|x64.ActiveCfg = Debug|x64
+		{61BE8F4F-A451-4DD6-8F66-C501F0CDD95C}.Debug|x64.Build.0 = Debug|x64
+		{61BE8F4F-A451-4DD6-8F66-C501F0CDD95C}.Debug|x86.ActiveCfg = Debug|Win32
+		{61BE8F4F-A451-4DD6-8F66-C501F0CDD95C}.Debug|x86.Build.0 = Debug|Win32
+		{61BE8F4F-A451-4DD6-8F66-C501F0CDD95C}.Release|x64.ActiveCfg = Release|x64
+		{61BE8F4F-A451-4DD6-8F66-C501F0CDD95C}.Release|x64.Build.0 = Release|x64
+		{61BE8F4F-A451-4DD6-8F66-C501F0CDD95C}.Release|x86.ActiveCfg = Release|Win32
+		{61BE8F4F-A451-4DD6-8F66-C501F0CDD95C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {791F9FC8-B636-4C41-9991-C3973A45F5A5}
+	EndGlobalSection
+EndGlobal
